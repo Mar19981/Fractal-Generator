@@ -1,0 +1,3 @@
+LIBRARY C++lib
+EXPORTS generateMandelbrotSet
+		generateJuliaSet
